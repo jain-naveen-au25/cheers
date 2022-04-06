@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+table {
+  border: ridge 2px;
+  background-color: aliceblue;
+}
+td {
+  border: ridge 2px;
+  background-color: aqua;
+}
+th {
+  border: ridge 2px;
+  background-color: aquamarine;
+}
+body {
+  background-color: violet;
+}
